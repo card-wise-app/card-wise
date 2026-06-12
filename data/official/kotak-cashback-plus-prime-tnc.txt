@@ -1,0 +1,526 @@
+ 
+This is a Public document. 
+ 
+                                                                 Kotak Cashback+ Prime Credit Card – Terms & Conditions 
+ 
+For Kotak Cashback+ Prime Credit Card, the cashback construct will work as mentioned below: 
+• 
+Cashback will be accrued as reward points on eligible spends monthly. 
+• 
+Customers can redeem accrued reward points as cashback through a one-click redemption process on the Kotak Rewards 
+platform: 
+After logging to the platform with CRN and mobile number, customers will be able to view the available rewards balance 
+and redeemable amount. 
+o Reward points will expire one year from accrual date 
+o Reward points can only be earned only in multiples of ₹1 
+Cashback will be processed basis the following construct: 
+ 
+Category Type 
+Category 
+Cashback 
+Capping 
+Cashback post 
+capping/spend is achieved 
+Accelerated Category 
+Online Food & Grocery 
+delivery, Online Entertainment 
+and Auto dealer spends 
+5% 
+750 Reward Points/billing 
+cycle 
+0% 
+Fuel 
+3% 
+Non-accelerated Category 
+Other eligible categories 
+except excluded categories 
+0.50% 
+Unlimited 
+NA 
+Insurance (MCC 6300) 
+0.50% 
+Up to ₹25,000 insurance spends 
+in a billing cycle 
+NA 
+UPI on CC spends (for Kotak 
+Cashback+ Prime RuPay 
+variant) 
+Accelerated & non-
+accelerated categories 
+0.50% 
+Unlimited 
+NA 
+Excluded Category 
+Rent, B2B, Utilities, Edu & Govt., 
+Wallet, Online 
+skill based gaming, Any 
+transaction converted to EMI 
+Nil 
+NA 
+NA 
+Note: MCC descriptions mentioned in Annexure 
+ 
+ 
+• 
+Accelerated categories cashback will be capped at 750 Reward Points per billing cycle. Post capping, customer will accrue 
+no Cashback on any spends done across the accelerated categories for the particular billing cycle. 
+• 
+Customer will be eligible for unlimited 0.5% cashback on other eligible categories 
+• 
+Customer will be eligible for unlimited 0.5% cashback on all UPI on CC spends across both accelerated and non-accelerated 
+categories, except the spends made on excluded categories (for Kotak Cashback+ Prime RuPay variant) 
+• 
+All Insurance spends (MCC 6300) up to ₹25,000 will be eligible for 0.5% base cashback 
+• 
+There is no capping on cashback accrual on non-accelerated and UPI on CC spends 
+ 
+ 
+Auto Disbursement of Cashback during Card Upgrade scenario : 
+ 
+▪ 
+From other card to Cashback+ Prime Credit Card upgrade case : The outstanding Reward Points/Miles/White pass in 
+the old card account will be posted in new Cashback+ Prime card account in the form of equivalent reward points, with 
+value as per old card point rate 
+▪ 
+From Cashback+ Prime Credit Card to Other Card upgrade case : The outstanding Reward Points in the Cashback+ 
+Prime account will be posted in new Kotak card account in the form of equivalent Reward Points/Miles/White pass, 
+with value as per Cashback+ Prime card reward point rate 
+
+ 
+This is a Public document. 
+Cashback Accrual Scenarios (for illustrative purpose only): 
+ 
+Cashback Accrual Scenarios 
+Category 
+Action 
+Txn amount Cashback (Cr/Dr) 
+Remarks 
+Online Grocery 
+Purchase on 
+categories eligible for 
+5% Cashback 
+2000 
+Online Grocery txn accrued ₹100 Cashback 
+@ 5% 
+Accelerated Cashback earned = ₹100 
+Non-accelerated Cashback earned = ₹0 
+Cashback earned 
+100 
+ 
+Auto dealer 
+spends 
+Purchase on categories 
+eligible for 5% 
+Cashback 
+2000 
+ 
+Online Grocery txn accrued ₹100 Cashback 
+@ 5% 
+Accelerated Cashback earned = ₹200 
+Non-accelerated Cashback earned = ₹0 
+Cashback earned 
+100 
+Uber 
+Purchase on 
+categories eligible for 
+0.5% Cashback 
+2000 
+Uber txn accrued ₹10 Cashback @ 0.5% 
+Accelerated Cashback earned = ₹200 
+Non-accelerated Cashback earned = ₹10 
+Cashback earned 
+10 
+Fuel 
+Purchase on 
+categories eligible for 
+3% Cashback 
+5000 
+Fuel txn accrued ₹150 Cashback @ 3% 
+Accelerated Cashback earned = ₹350 
+Non-accelerated Cashback earned = ₹10 
+Cashback earned 
+150 
+Online 
+Entertainment 
+Purchase on 
+categories eligible for 
+5% Cashback 
+3000 
+Online Entertainment txn accrued ₹150 @ 5% 
+Accelerated Cashback earned = ₹500 
+Non-accelerated Cashback earned = ₹10 
+Cashback earned 
+150 
+Online Food 
+Purchase on 
+categories eligible for 
+5% Cashback 
+3000 
+Online Food txn accrued ₹150 @ 5% 
+Accelerated Cashback earned = ₹650 
+Non-accelerated Cashback earned = ₹10 
+Cashback earned 
+150 
+Online Grocery 
+Purchase on 
+categories eligible for 
+5% Cashback 
+4000 
+Online Food txn accrued ₹200 @ 5%, but 
+since that will exceed the capping of 750 
+cashback/billing cycle, hence customer 
+earns only ₹100 cashback 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹10 
+Cashback earned 
+100 
+Airline ticket 
+Purchase on 
+categories eligible for 
+0.5% Cashback 
+2500 
+Airline ticket txn accrued ₹12.5 Cashback @ 
+0.5%, but since cashback can only be 
+accrued in multiple of 1, hence customer 
+gets ₹12 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹22 
+Cashback earned 
+12 
+Dining 
+Purchase on 
+categories eligible for 
+0.5% Cashback 
+1500 
+Dining txn accrued ₹7.5 Cashback @ 0.5%, 
+but since cashback can only be accrued in 
+multiple of 1, hence customer gets ₹7 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹29 
+Cashback earned 
+7 
+Electronics 
+Purchase on 
+categories eligible for 
+0.5% Cashback 
+1000 
+Electronics txn accrued ₹5 Cashback @ 0.5% 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹34 
+Cashback earned 
+5 
+Online game 
+purchase 
+Purchase on 
+categories ineligible 
+for Cashback 
+1500 
+Online game purchase txn accrues no 
+cashback 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹34 
+Cashback earned 
+0 
+UPI on CC 
+spends on 
+Online Grocery 
+UPI on CC spends on 
+accelerated category 
+1000 
+Online Grocery is an accelerated category, 
+but UPI on CC txn accrues 0.5% cashback on 
+both accelerated and non-accelerated 
+categories 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹39 
+Cashback earned 
+5 
+UPI on CC 
+spends – 
+Electricity bill 
+payment 
+UPI on CC spends on 
+excluded category 
+3000 
+Electricity bill payment comes under 
+excluded category, hence no cashback 
+accrued 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹39 
+Cashback earned 
+0 
+Insurance 
+spends 
+Purchase on 
+categories eligible for 
+0.5% Cashback 
+60000 
+Insurance spends accrued ₹300 cashback 
+@ 0.5%, but since cashback can only be 
+accrued for Insurance spends up to ₹25k, 
+hence customer accrues ₹125 cashback 
+Accelerated Cashback earned = ₹750 
+Non-accelerated Cashback earned = ₹164 
+Cashback earned 
+125 
+ 
+Note: Cashback will be given/restricted basis the Merchant Category Code (MCC) on which spends are made. For more details, please refer the annexure. 
+
+ 
+This is a Public document. 
+Terms and Conditions: 
+• 
+Cashback can be accrued in the multiples of ₹1 only 
+• 
+Accrued reward points will expire 1 year from the date of accrual 
+• 
+Cashback earned will be computed based on settled spends during the statement period minus any returns or refunds during 
+the same period. 
+• 
+In case the purchase/ transaction is returned/ cancelled/ reversed post statement generation date, Cashback toward such 
+transactions will be reversed 
+• 
+In case of conversion of a transaction to EMI at a later date, Cashback earned on such transaction will be reversed during 
+the same billing cycle as EMI conversion 
+• 
+For a transaction converted into an EMI transaction, in case of any Cashback credited prior to conversion of transaction to 
+EMI, the accrued cashback will be reversed by the bank 
+• 
+Since there is no cashback on EMI transactions, once a transaction is converted in to EMI, the customer will not earn any 
+cashback on the transaction even if the customer opts for foreclosure or cancellation of the EMI and pays the full amount on 
+the same. 
+• 
+For customers who wish to foreclose/cancel their EMI transactions, customers would need to call up Kotak Mahindra Bank 
+customer care and place a request for the same. 
+• 
+Rent Payment, B2B, Education & Government spends, Utilities, EMI transactions, Post Purchase EMI, Wallet loading transactions, 
+Cash advances, Online skill-based gaming do not qualify as spends where customers can earn Cashback. 
+• 
+5% and 3% Cashback on “Accelerated Categories” has a capping of 750 Reward Points per statement cycle. There is no limit 
+on accrual of Cashback on the 0.5% cashback feature on other spends (excluding aforementioned categories) 
+• 
+Spends made by the add-on cardholder will accrue rewards for the primary cardholder. Cashback accrual and subsequent 
+capping of add-on card will be subsumed under the primary cardholder’s account. 
+• 
+In case of a terminated card, whether by the primary Cardholder or the Bank, unused cashback cannot be forfeited. Rewards 
+points can be forfeited if not redeemed before cancellation. 
+• 
+Any remaining Cashback including Cashback pending credit into the account of the Cardholder shall immediately cease to 
+be valid upon the occurrence of the following: (1) The cancellation of the Kotak Cashback+ Prime Credit Card; or (2) In the 
+event of a default i.e. if the Minimum Amount Due is not paid by the Payment Due Date or (3) Breach of any clause of the 
+Card Member Agreement 
+• 
+The Kotak Cashback+ Prime Credit Card is issued for personal expenses and purposes only. The Cardholder must not use the 
+Credit Card to purchase anything for resale, for commercial or business purposes. The Credit Card should be used only for 
+lawful, bona fide personal purposes and must not be used for any money laundering, anti-social or speculative activities or 
+must not be exploited commercially in business (e.g. for working capital purposes). 
+• 
+If the Kotak Cashback+ Prime Credit Card is found to be used for prohibited, restricted, commercial purposes or any purposes 
+as mentioned above, Kotak Mahindra Bank may, at its sole discretion, exercise its right to cancel the concerned Credit 
+Card and additional/add-on cards thereof and withhold/cancel the Cashback earned, without any notice to the 
+Cardholder. Kotak Mahindra Bank may enquire with you over phone or through any other means of formal communication 
+and seek details, information, proofs, etc., about the Credit Card transactions, pattern of usage, etc. Non- satisfactory 
+responses or no responses from the Cardholder may lead to blocking/closure of the Cashback Credit Card by Kotak 
+Mahindra Bank 
+• 
+Use of the Card at Merchant Establishment will be limited by the credit limit assigned to each Card Account by the Bank. 
+• 
+The Bank may, at any time without prior notice, or stating any reason whatsoever, refuse authorization for a Charge at a 
+Merchant Establishment, and / or restrict or defer the Card member's ability to use the Card and / or suspend or cancel the 
+Card. The Bank through the ATM, Merchant Establishment, by itself may repossess / retain the Credit Card, if it reasonably 
+believes that it is necessary to do so for proper management of credit or business risk, or if the Card or Card Account is being 
+misused or likely to be misused. 
+• 
+Nothing contained in the Kotak Cashback+ Prime Credit Card’s proposition shall be construed as a binding obligation on 
+Kotak Mahindra Bank or any participating Merchant Partner. 
+• 
+The bank may at their discretion, temporarily prohibit any customer from earning Cashback or using any features of the 
+program. 
+• 
+For customers who want to cancel their EMI transactions, customers need to call up Kotak Mahindra Bank customer care at 
+1860 266 2666 for the same. 
+• 
+Cashback of 5% and 3% categories (Accelerated Categories) will be calculated basis the MCC (Merchant Category Code) 
+of the concerned categories. Kotak Mahindra Bank shall not be held liable if a transaction on any of the MCCs apart from 
+mentioned in annexure do not earn accelerated cashback. 
+• 
+For Cashback+ Prime RuPay variant, UPI on CC spends will accrue unlimited 0.5% cashback on both accelerated and 
+non-accelerated categories, except for the MCCs excluded from rewards accrual. Refer the Annexure for excluded 
+categories. 
+• 
+The terms and conditions mentioned in the document can be revised or terminated at any time with 30 days prior notice. 
+• 
+The Cashback shall not be applicable if the Card has been withdrawn or cancelled or is liable to be cancelled or the account 
+of the Card member is a delinquent Account. 
+• 
+Kotak Mahindra Bank’s computation of the Cashback shall be final, conclusive and binding on a Card member and will not 
+be liable to be disputed or questioned. 
+• 
+The terms contained in this document shall be in addition to and not in derogation of the Most Important Terms and Conditions 
+document. 
+• 
+The Cashback accrual benefit on Kotak Cashback+ Prime Credit Card is made available at the pleasure of Kotak Mahindra 
+Bank and Kotak Mahindra Bank expressly reserves the right at any time and with notice to Card members, to add to and/or 
+alter, modify, change or vary all or any of these Terms and Conditions or to replace wholly or in part, the current Scheme by 
+another scheme, or to withdraw it altogether. 
+
+ 
+This is a Public document. 
+• 
+Without prejudice to anything contained in the Terms and Conditions, all disputes, if any, arising out of or in connection with 
+or as a result of the Cashback Scheme or otherwise relating hereto shall be subject to the exclusive jurisdiction of the 
+competent courts / tribunals at Mumbai. 
+• 
+For any details on Credit Cards fees and charges, due dates, and other details, please refer to Kotak Credit Cards MITC. 
+
+ 
+This is a Public document. 
+Annexure: 
+ 
+Category 
+Txn Type 
+MCC 
+MCC Description 
+Cashback 
+Capping 
+Cashback 
+post 
+capping is 
+achieved 
+Fuel 
+POS 
+5172 
+PETROLEUM/PETROLEUM PRODUCTS 
+3% 
+750 reward 
+points per 
+billing cycle 
+across overall 
+spends made 
+on 5% and 3% 
+categories. 
+0% 
+5541 
+SERVICE STATIONS 
+5983 
+FUEL DEALERS 
+Food and 
+Grocery 
+Ecom 
+5411 
+GROCERY STORES/SUPERMARKETS 
+5% 
+0% 
+5422 
+FREEZER/MEAT LOCKERS 
+5441 
+CANDY/NUT/CONFECTION STORES 
+5451 
+DAIRY PRODUCT STORES 
+5462 
+BAKERIES 
+5499 
+MISC FOOD STORES - DEFAULT 
+QSR 
+Ecom 
+5812 
+EATING PLACES AND RESTAURANTS 
+5% 
+0% 
+5814 
+FAST FOOD RESTAURANTS 
+Entertainment 
+Ecom 
+5968 
+CONTINUITY/SUBSCRIPTION MERCHT 
+5% 
+0% 
+7832 
+MOTION PICTURE THEATRES 
+7922 
+THEATRICAL PRODUCERS 
+7994 
+VIDEO GAME ARCADES/ESTABLISH 
+7996 
+AMUSEMENT PARKS/CIRCUS 
+Auto Dealers 
+POS/Ecom 
+5013 
+MOTOR VEHICLE SUPPLIES AND NEW PARTS 
+5% 
+0% 
+5511 
+CAR AND TRUCK DEALERS (NEW AND USED) SALES, 
+SERVICE, REPAIRS, PARTS & LEASHING 
+5521 
+CAR AND TRUCK DEALERS (USED ONLY) SALES, SERVICE, 
+REPAIRS, PARTS & LEASHING 
+5533 
+AUTOMOTIVE PARTS AND ACCESSORIES STORES 
+ 
+Category 
+Txn Type 
+MCC 
+MCC Description 
+Cashback 
+Spends Capping 
+Cashback post spends 
+capping is achieved 
+Insurance 
+POS/Ecom 
+6300 
+INSURANCE 
+0.5% 
+Up to ₹25,000 Insurance spends in 
+a billing cycle 
+0% 
+ 
+Reward Restricted Categories 
+MCC 
+MCC Description 
+Reward Earning Rate 
+Utilities 
+4812 
+TELECOMMUNICATION EQUIPMENT 
+0% 
+4814 
+TELECOMMUNICATION SERVICES 
+4900 
+UTILITIES/ELEC/GAS/H2O/SANI 
+Education & Govt. Spends 
+8211 
+ELEMENTARY/SECONDARY SCHOOLS 
+0% 
+8220 
+COLLEGES/UNIV/JC/PROFESSION 
+8241 
+CORRESPONDENCE SCHOOLS 
+8299 
+SCHOOLS - DEFAULT 
+9311 
+TAX PAYMENTS 
+9399 
+GOV'T SERV - DEFAULT 
+Wallet 
+6540 
+NON-FIN INST-STORED VALUE CARD 
+0% 
+B2B 
+7311 
+ADVERTISING SERVICES 
+0% 
+7399 
+BUSINESS SERVICES - DEFAULT 
+Rent 
+6513 
+REAL EST AGNTS & MGRS RENTALS 
+0% 
+Skill-based online gaming 
+5816 
+GAMES 
+0% 
+EMI 
+NA 
+NA 
+0% 
+ 

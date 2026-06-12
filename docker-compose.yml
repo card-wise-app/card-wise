@@ -1,0 +1,30 @@
+# CardWise — almost $0 stack
+# Local Postgres via Docker: $0, no cloud bill.
+# For hosted $0: use Supabase Free tier (500 MB, 50k monthly active
+# users) or Neon Free tier instead of this service, and set
+# DATABASE_URL to that project's Postgres URL. The app code does
+# not change — only DATABASE_URL changes.
+# No paid Firecrawl Cloud, no paid ESP, no paid analytics.
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: cardwise
+      POSTGRES_PASSWORD: cardwise_dev_only
+      POSTGRES_DB: cardwise
+    ports:
+      - "5432:5432"
+    volumes:
+      - cardwise_pgdata:/var/lib/postgresql/data
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./db/schema_v2.sql:/docker-entrypoint-initdb.d/02_schema_v2.sql:ro
+  api:
+    build: ./backend
+    environment:
+      DATABASE_URL: postgresql://cardwise:cardwise_dev_only@db:5432/cardwise
+    ports:
+      - "8000:8000"
+    depends_on:
+      - db
+volumes:
+  cardwise_pgdata:
